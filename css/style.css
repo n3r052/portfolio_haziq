@@ -92,11 +92,12 @@ li, a{
 
 .ServTitle p{
     font-weight: 300;
-    padding: 20px;
+    padding: 20px 0;
 }
 
 .ServTitle h1{
-    
+    font-weight: bold;
+    font-size: 28px;
 }
 
 .ServiceCon{
