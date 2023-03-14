@@ -56,5 +56,24 @@ li, a{
     margin: 0 auto;
 }
 
+.hero{
+    gap: 2em;
+    flex-wrap: wrap-reverse;
+    align-items: center;
+    min-height: calc(100vh - 93.6px);
+}
+
+.hero h1{
+    font-weight: 700;
+    font-size: clamp(40px, 5vw, 70px);
+    line-height: 1;
+}
+
+.hero p{
+    gont-weight: 500;
+    font-size: 30px;
+    padding: 1em 0;
+}
+
 
 
