@@ -79,6 +79,7 @@ li, a{
     padding: 1em 0;
 }
 
+/* --- Container --- */
 .container{
     /* min-height: 100%;
     width: 80%;
@@ -88,7 +89,6 @@ li, a{
     border-bottom: 1px solid black; */
 }
 
-/* --- Service section --- */
 .Container_Title{
     text-align: center;
 }
@@ -103,6 +103,7 @@ li, a{
     font-size: 28px;
 }
 
+/* --- Service section --- */
 .ServiceCon{
     display: flex;
     justify-content: center;
