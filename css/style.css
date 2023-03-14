@@ -85,6 +85,20 @@ li, a{
     border-bottom: 1px solid black;
 }
 
+/* --- Service section --- */
+.ServTitle{
+    text-align: center;
+}
+
+.ServTitle p{
+    font-weight: 300;
+    padding: 20px;
+}
+
+.ServTitle h1{
+    
+}
+
 .ServiceCon{
     display: flex;
     justify-content: center;
