@@ -80,7 +80,10 @@ li, a{
 }
 
 .container{
-    min-height: 100%;
+    /* min-height: 100%;
+    width: 80%;
+    margin: auto;
+    padding: 0; */
     /* border-top: 1px solid black;
     border-bottom: 1px solid black; */
 }
