@@ -132,3 +132,13 @@ li, a{
     background: var(--main-color);
 
 }
+
+.ServiceCon .box:hover .icon,
+.ServiceCon .box:hover .title{
+    color: white;
+    transition: .3s all ease-in-out;
+    -webkit-transition: .3s all ease-in-out;
+    -moz-transition: .3s all ease-in-out;
+    -ms-transition: .3s all ease-in-out;
+    -o-transition: .3s all ease-in-out;
+}
