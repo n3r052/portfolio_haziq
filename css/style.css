@@ -119,3 +119,10 @@ li, a{
     font-size: 48px;
     padding: 15px
 } */
+
+.ServiceCon .box .boxContent .title{
+    font-size: 24px;
+    color: var(--main-color);
+    font-weight: bold;
+    padding: 10px;
+}
