@@ -218,5 +218,22 @@ li, a{
     font-size: 18px;
     line-height: 1.6;
     margin-bottom: 0;
+    text-align: center;
 }
 
+.footer ul li a{
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.footer ul li{
+    display: inline-block;
+    padding: 0 15px;
+}
+
+.footer .copyright{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 13px;
+    color: #fff;
+}
