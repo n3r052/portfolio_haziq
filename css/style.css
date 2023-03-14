@@ -45,6 +45,16 @@ li, a{
     padding: 0px 20px;
 }
 
+/* --- start hero section --- */
+
 .row{
     display: flex;
 }
+
+.container{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+
+
