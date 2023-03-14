@@ -127,3 +127,8 @@ li, a{
     font-weight: bold;
     padding: 10px;
 }
+
+.ServiceCon .box:hover{
+    background: var(--main-color);
+
+}
