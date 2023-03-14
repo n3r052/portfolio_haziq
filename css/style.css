@@ -89,7 +89,7 @@ li, a{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    height: 97vh;
+    min-height: 40px;
 }
 
 .ServiceCon .box{
