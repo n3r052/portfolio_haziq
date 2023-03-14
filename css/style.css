@@ -108,7 +108,7 @@ li, a{
     min-height: 40px;
 }
 
-.ServiceCon .box{
+.ServiceCon .Card{
     width: 300px;
     height: 300px;
     border-radius: 10px;
@@ -123,7 +123,7 @@ li, a{
     border: 1px solid black;
 }
 
-.ServiceCon .box .boxContent{
+.ServiceCon .Card .CardContent{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -133,26 +133,26 @@ li, a{
     text-align: center;
 }
 
-.ServiceCon .box .boxContent .icon{
+.ServiceCon .Card .CardContent .icon{
     color: var(--main-color);
     font-size: 48px;
     padding: 15px
 }
 
-.ServiceCon .box .boxContent .title{
+.ServiceCon .Card .CardContent .title{
     font-size: 24px;
     color: var(--main-color);
     font-weight: bold;
     padding: 10px;
 }
 
-.ServiceCon .box:hover{
+.ServiceCon .Card:hover{
     background: var(--main-color);
 
 }
 
-.ServiceCon .box:hover .icon,
-.ServiceCon .box:hover .title{
+.ServiceCon .Card:hover .icon,
+.ServiceCon .Card:hover .title{
     color: white;
     transition: .3s all ease-in-out;
     -webkit-transition: .3s all ease-in-out;
