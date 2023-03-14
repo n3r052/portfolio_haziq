@@ -155,12 +155,18 @@ li, a{
 }
 
 .PortCon .img_box{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;  
+}
+
+.PortCon .img_box .img_sets{
     display: flex;
     flex-direction: column;
     width: 32.5%;
 }
 
-.PortCon .img_box img{
+.PortCon .img_box .img_sets img{
     width: 100%;
     padding-bottom: 15px;
     border-radius: 5px;
