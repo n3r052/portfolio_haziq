@@ -103,6 +103,7 @@ li, a{
     background: #fff;
     margin: 10px;
     position: relaive;
+    border: 1px solid black;
 }
 
 .ServiceCon .box .boxContent{
