@@ -86,16 +86,16 @@ li, a{
 }
 
 /* --- Service section --- */
-.ServTitle{
+.Container_Title{
     text-align: center;
 }
 
-.ServTitle p{
+.Container_Title p{
     font-weight: 300;
     padding: 20px 0;
 }
 
-.ServTitle h1{
+.Container_Title h1{
     font-weight: bold;
     font-size: 28px;
 }
