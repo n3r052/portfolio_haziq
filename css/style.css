@@ -79,5 +79,8 @@ li, a{
     padding: 1em 0;
 }
 
-
+.container{
+    min-height: 450px;
+    border-bottom: 1px solid black;
+}
 
