@@ -115,11 +115,11 @@ li, a{
     text-align: center;
 }
 
-/* .ServiceCon .box .boxContent .icon{
+.ServiceCon .box .boxContent .icon{
     color: var(--main-color);
     font-size: 48px;
     padding: 15px
-} */
+}
 
 .ServiceCon .box .boxContent .title{
     font-size: 24px;
