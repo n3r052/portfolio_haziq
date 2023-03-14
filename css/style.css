@@ -56,6 +56,10 @@ li, a{
     margin: 0 auto;
 }
 
+.hero>*{
+    flex: 1 1 25em;
+}
+
 .hero{
     gap: 2em;
     flex-wrap: wrap-reverse;
