@@ -116,6 +116,7 @@ li, a{
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
     background: #fff;
+    justify-items: center;
     margin: 15px;
     position: relaive;
     border: 1px solid black;
@@ -127,6 +128,7 @@ li, a{
     justify-content: center;
     flex-direction: column;
     padding: 15px;
+    padding-top: 60px;
     text-align: center;
 }
 
