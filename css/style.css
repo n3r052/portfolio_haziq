@@ -143,3 +143,29 @@ li, a{
     -ms-transition: .3s all ease-in-out;
     -o-transition: .3s all ease-in-out;
 }
+
+/* --- Portfolio ---*/
+.PortCon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 40px 20px 0 20px;
+}
+
+.PortCon .img_box{
+    display: flex;
+    flex-direction: column;
+    width: 32.5%;
+}
+
+.PortCon .img_box img{
+    width: 100%;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
