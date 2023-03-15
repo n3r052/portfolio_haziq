@@ -4,10 +4,10 @@
     margin: 0;
     font-family: montserrat;
 }
-
+/* 
 body{
-    /* background: var(--secondary-color); */
-}
+    background: var(--secondary-color);
+} */
 
 :root{
     --main-color: #4482cb;
@@ -80,14 +80,14 @@ li, a{
 }
 
 /* --- Container --- */
-.container{
-    /* min-height: 100%;
+/* .container{
+    min-height: 100%;
     width: 80%;
     margin: auto;
-    padding: 0; */
-    /* border-top: 1px solid black;
-    border-bottom: 1px solid black; */
-}
+    padding: 0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+} */
 
 .Container_Title{
     text-align: center;
